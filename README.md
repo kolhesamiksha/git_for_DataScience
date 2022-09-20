@@ -1,4 +1,4 @@
-# git_for_DataScience
+# Git_for_DataScience
 
 This Repository is the proper Guide of how to use git for the data science or for any project implementation over git.
 I've written one article on medium with practical hands-on implementation so anyone who just want to kickstart git can follow my article. above is the .html i used for checking its version control power.
